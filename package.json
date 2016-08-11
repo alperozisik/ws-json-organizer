@@ -1,0 +1,24 @@
+{
+  "name": "ws-json-organizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alperozisik/ws-json-organizer.git"
+  },
+  "keywords": [
+    "WebSocket",
+    "JSON",
+    "ws"
+  ],
+  "author": "Alper Ozisik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alperozisik/ws-json-organizer/issues"
+  },
+  "homepage": "https://github.com/alperozisik/ws-json-organizer#readme"
+}
