@@ -1,6 +1,6 @@
 {
   "name": "ws-json-organizer",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "When multiple messages are received in single message event of WebSocket causing problems with JSON parser. This small JS library handles multiple jsons in single message",
   "main": "lib/index.js",
   "repository": {
